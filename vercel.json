@@ -10,7 +10,7 @@
   ],
   "functions": {
     "api/index.js": {
-      "includeFiles": "dist/finalssr/**"
+      "includeFiles": "dist/finalssr/server/**"
     }
   }
 }
